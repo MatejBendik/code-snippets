@@ -1,0 +1,35 @@
+/* ---------------- Mobile devices ---------------- */
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  /* CSS Code */
+}
+
+/* ---------------- Mobile (landscape) ---------------- */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  /* CSS Code */
+}
+
+/* ---------------- Tablet ---------------- */
+
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+  /* CSS Code */
+}
+
+/* ---------------- Small desktop ---------------- */
+
+@media only screen and (min-width: 980px) and (max-width: 1023px) {
+  /* CSS Code */
+}
+
+/* ---------------- Typical desktop ---------------- */
+
+@media only screen and (min-width: 1024px) and (max-width: 1199px) {
+  /* CSS Code */
+}
+
+/* ---------------- Large desktop ---------------- */
+
+@media only screen and (min-width: 1200px) {
+  /* CSS Code */
+}
