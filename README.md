@@ -1,2 +1,3 @@
-## Useful code snippets 
-This repository is like simple cheat sheet/code snippets database.
+## Helpful code snippets
+This repository contains code snippets of:
+C, JavaScript, CSS, TypeScript etc.
